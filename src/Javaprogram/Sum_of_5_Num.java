@@ -8,7 +8,7 @@ public class Sum_of_5_Num {
 			sum = sum+i;
 			
 		}
-		System.out.println("sum og first 5 natural numbers is"+  sum);
+		System.out.println("sum of first 5 natural numbers is "+  sum);
 		// TODO Auto-generated method stub
 
 	}
