@@ -21,7 +21,7 @@ public class Sum_Of_Digits {
 		int num = sc.nextInt();
 		SumApp s1 = new SumApp();
 		int res = s1.findsum(num);
-		System.out.println("The sum of digits"+ num + " is "  +res);
+		System.out.println("The sum of digits "+ num + " is "  +res);
 		
 		// TODO Auto-generated method stub
 
